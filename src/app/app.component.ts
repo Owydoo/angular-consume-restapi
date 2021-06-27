@@ -10,7 +10,7 @@ import { Todo } from './classes/todo';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  title = 'angular-consume-restapi';
 
   readonly ROOT_URL = "https://jsonplaceholder.typicode.com";
 
